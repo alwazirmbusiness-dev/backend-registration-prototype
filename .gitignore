@@ -1,0 +1,9 @@
+build/
+.vs/
+*.exe
+*.obj
+*.pdb
+*.ilk
+.vscode/
+vcpkg/
+third_party/json-src/
